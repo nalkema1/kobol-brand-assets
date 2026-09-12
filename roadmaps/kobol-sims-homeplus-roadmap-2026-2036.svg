@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b1c3d"/>
+      <stop offset="100%" stop-color="#123a6d"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#4da3ff"/>
+      <stop offset="100%" stop-color="#7ee0ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <text x="80" y="90" fill="#ffffff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="42" font-weight="700">Kobol Industries — Sims to Home Plus Roadmap</text>
+  <text x="80" y="140" fill="#7ee0ff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24">Building Smarter Worlds · 2026–2036</text>
+  <text x="80" y="200" fill="#d7e6ff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20">From simulation to everyday impact. A decade of disciplined engineering toward Home Plus.</text>
+  <line x1="100" y1="620" x2="1500" y2="620" stroke="url(#line)" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="100" cy="620" r="14" fill="#7ee0ff" stroke="#0b1c3d" stroke-width="4"/>
+  <text x="100" y="580" text-anchor="middle" fill="#ffffff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="700">2026</text>
+  <text x="100" y="670" text-anchor="middle" fill="#cfe3ff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16">Sims Module<tspan x="100" dy="22">Lab Prototype</tspan></text>
+  <circle cx="300" cy="620" r="14" fill="#7ee0ff" stroke="#0b1c3d" stroke-width="4"/>
+  <text x="300" y="580" text-anchor="middle" fill="#ffffff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="700">2027</text>
+  <text x="300" y="670" text-anchor="middle" fill="#cfe3ff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16">Factory<tspan x="300" dy="22">Pilot Cells</tspan></text>
+  <circle cx="500" cy="620" r="14" fill="#7ee0ff" stroke="#0b1c3d" stroke-width="4"/>
+  <text x="500" y="580" text-anchor="middle" fill="#ffffff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="700">2028</text>
+  <text x="500" y="670" text-anchor="middle" fill="#cfe3ff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16">Home Plus<tspan x="500" dy="22">Alpha Kits</tspan></text>
+  <circle cx="700" cy="620" r="14" fill="#7ee0ff" stroke="#0b1c3d" stroke-width="4"/>
+  <text x="700" y="580" text-anchor="middle" fill="#ffffff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="700">2029</text>
+  <text x="700" y="670" text-anchor="middle" fill="#cfe3ff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16">Safety<tspan x="700" dy="22">Certification</tspan></text>
+  <circle cx="900" cy="620" r="14" fill="#7ee0ff" stroke="#0b1c3d" stroke-width="4"/>
+  <text x="900" y="580" text-anchor="middle" fill="#ffffff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="700">2030</text>
+  <text x="900" y="670" text-anchor="middle" fill="#cfe3ff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16">Home Plus<tspan x="900" dy="22">Limited Release</tspan></text>
+  <circle cx="1100" cy="620" r="14" fill="#7ee0ff" stroke="#0b1c3d" stroke-width="4"/>
+  <text x="1100" y="580" text-anchor="middle" fill="#ffffff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="700">2032</text>
+  <text x="1100" y="670" text-anchor="middle" fill="#cfe3ff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16">Multi-Task<tspan x="1100" dy="22">Autonomy Stack</tspan></text>
+  <circle cx="1300" cy="620" r="14" fill="#7ee0ff" stroke="#0b1c3d" stroke-width="4"/>
+  <text x="1300" y="580" text-anchor="middle" fill="#ffffff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="700">2034</text>
+  <text x="1300" y="670" text-anchor="middle" fill="#cfe3ff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16">Neighborhood<tspan x="1300" dy="22">Fleet Ops</tspan></text>
+  <circle cx="1500" cy="620" r="14" fill="#7ee0ff" stroke="#0b1c3d" stroke-width="4"/>
+  <text x="1500" y="580" text-anchor="middle" fill="#ffffff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="700">2036</text>
+  <text x="1500" y="670" text-anchor="middle" fill="#cfe3ff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16">Ubiquitous<tspan x="1500" dy="22">Home Plus</tspan></text>
+  <rect x="980" y="250" width="520" height="220" rx="18" fill="#102a52" stroke="#4da3ff" stroke-width="2"/>
+  <text x="1010" y="300" fill="#7ee0ff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="700">HOME PLUS</text>
+  <text x="1010" y="345" fill="#ffffff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18">Ultimate home platform target:</text>
+  <text x="1010" y="380" fill="#d7e6ff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18">cooking assist · cleaning · childcare support</text>
+  <text x="1010" y="420" fill="#a9c7ef" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16">Not finished yet — roadmap locked, work ongoing.</text>
+  <text x="80" y="820" fill="#8fb4e8" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18">Kobol Industries · Prospect narrative roadmap</text>
+  <text x="80" y="860" fill="#5f89c2" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16">10 YEARS. ENDLESS IMPACT.</text>
+</svg>
